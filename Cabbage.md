@@ -30,8 +30,8 @@ First, you need to download the following software:
    > 2. Name the file, for example, `spectra.dll` and save it to the **VST** folder.
 4. Close _Cabbage_.
 5. Make sure the **VST** folder contains the two files:  
-  - [x] `.csd project file`  
-  - [x] `.dll library file`
+- [x] `.csd project file`  
+- [x] `.dll library file`
 
 ## Plugin Intergration into REAPER
 

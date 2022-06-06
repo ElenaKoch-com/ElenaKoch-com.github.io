@@ -848,7 +848,7 @@ table tr td :last-child {
 
 code {
   padding: 0.125rem 0.25rem;
-  color: ##3e393b;
+  color: ##555;
   background-color: #edeeef;
   border-radius: 0.25rem;
 }

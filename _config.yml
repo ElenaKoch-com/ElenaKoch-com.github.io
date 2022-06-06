@@ -201,7 +201,7 @@ date_format: "%B %-d, %Y"
 # Output options (more information on Jekyll's site)
 timezone: "America/Toronto"
 markdown: kramdown
-highlighter: 555
+highlighter: grey 
 permalink: /:year-:month-:day-:title/
 paginate: 5
 

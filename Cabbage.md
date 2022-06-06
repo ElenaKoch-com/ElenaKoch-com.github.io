@@ -13,13 +13,10 @@ First, you need to download the following software:
 
 - **Cabbage** [https://cabbageaudio.com](https://cabbageaudio.com)  
    > Free software for prototyping audio instruments with the Csound audio.
-
 - **REAPER**  [https://www.reaper.fm](https://www.reaper.fm)  
    > A digital audio production application.
-
 - **SPAN VST** [https://www.voxengo.com/product/span/](https://www.voxengo.com/product/span/)  
    > A free real-time FFT audio spectrum analyzer.
-
    For **SPAN VST** install only the selected components as shown below:
    ![SPAN setup](/assets/img/SPAN_setup.png)
 
@@ -33,9 +30,8 @@ First, you need to download the following software:
    > 2. Name the file, for example, `spectra.dll` and save it to the **VST** folder.
 4. Close _Cabbage_.
 5. Make sure the **VST** folder contains the two files:  
-
--[x] `.csd project file`
--[x] `.dll library file`
+  - [x] `.csd project file`  
+  - [x] `.dll library file`
 
 ## Plugin Intergration into REAPER
 

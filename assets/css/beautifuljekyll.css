@@ -56,7 +56,7 @@ a:focus {
 blockquote {
   padding: 0.125rem 0.25rem;
   color: #808080;
-  background color: #3e393b
+  background-color: #3e393b
   }
 blockquote p:first-child {
   margin-top: 0;

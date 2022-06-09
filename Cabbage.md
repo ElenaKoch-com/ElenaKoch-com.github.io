@@ -5,18 +5,18 @@ subtitle: Compilation and Installation
 tags: [test]
 comments: true
 ---
-This is a guide I initially created in PowerPoint for my current customer and then moved to online documentation. Due to the NDA restrictions this is the only piece I can share.
+This guide explains how to install, compile, and integrate audio software to visualize the generated sound effect in real time.
+
 ## Prerequisites
 
-First, you need to download the following software:
-   NOTE: Install the software to the default directory.
-
+First, download the following software from the official websites to your default directory:
 - **Cabbage** [https://cabbageaudio.com](https://cabbageaudio.com)  
-   > Free software for prototyping audio instruments with the Csound audio.
+   > Free software for prototyping audio instruments with the Csound audio.  
 - **REAPER**  [https://www.reaper.fm](https://www.reaper.fm)  
    > A digital audio production application.
 - **SPAN VST** [https://www.voxengo.com/product/span/](https://www.voxengo.com/product/span/)  
    > A free real-time FFT audio spectrum analyzer.
+   >
    For **SPAN VST** install only the selected components as shown below:
    ![SPAN setup](/assets/img/SPAN_setup.png)
 
@@ -33,17 +33,16 @@ First, you need to download the following software:
 - [x] `.csd project file`  
 - [x] `.dll library file`
 
-## Plugin Intergration into REAPER
+## Plugin Integration into REAPER
 
 1. Open _REAPER_ from your desktop.
 2. In **About REAPER** window, wait for the **Buy Me** button countdown before turning into **Still Evaluating**, and click it to use the application with the free Evaluation license.  
    ![REAPER license button](/assets/img/REAPER_license.png)
 
-3. Specify audio device settings:Click **Options** tab>**Preferences** to access **REAPER Preferences**>**Device** and set:
-   - **Audio system**: `ASIO`
-   - **ASIO Driver**: `Roland Rubix`
-4. In **REAPER Preferences** list scroll down and select **VST**. In **VST plug-ins settings** section:
-
+3. In **Options** tab>**Preferences** access **REAPER Preferences**>**Device** and specify audio device settings:  
+   - **Audio system**: _ASIO_
+   - **ASIO Driver**: _Roland Rubix_
+4. In the **REAPER Preferences** list scroll down and select **VST**. In **VST plug-ins settings** section:
    > 1. Click **Edit path list** button > **Add path** > navigate to add `Cabbage\VST directory`.
    > 2. Click **Edit path list button** > **Add path** > navigate to add path to SPAN (by default it is installed  to `C:\Program Files\Common Files\VST2\Voxengo)`.
    > 3. Click **Re-scan** button > select **Re-scan VST paths for new/modified plug-ins**.

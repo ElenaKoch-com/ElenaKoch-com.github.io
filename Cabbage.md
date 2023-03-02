@@ -68,10 +68,10 @@ In Cabbage plugin window update `VST:spectra` as the previous settings may be ir
 > - type 1 – pink noise
 > - type 2 – brown noise
 
-**Noise Level** knob:  
+**Noise Level** knob  
 > tunes the generated noise level in response to the vacuum cleaner output.
 
-**MIX** knob:  
+**MIX** knob  
 > controls the level of effect.
 
 <mark>Sorry, I need to stop here due to NDA restrictions</mark>

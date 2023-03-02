@@ -9,7 +9,7 @@ This guide explains how to install, compile, and integrate audio software to vis
 
 ## Prerequisites
 
-First, download the following software from the official websites to your default directory:
+Download the following software from the official websites to your default directory:
 - **Cabbage** [https://cabbageaudio.com](https://cabbageaudio.com)  
    > Free software for prototyping audio instruments with the Csound audio.  
 - **REAPER**  [https://www.reaper.fm](https://www.reaper.fm)  
@@ -36,7 +36,7 @@ First, download the following software from the official websites to your defaul
 ## Plugin Integration into REAPER
 
 1. Open _REAPER_ from your desktop.
-2. In **About REAPER** window, wait for the **Buy Me** button countdown before turning into **Still Evaluating**, and click it to use the application with the free Evaluation license.  
+2. **About REAPER** window displays the **Buy Me** button countdown. Wait for the button text to change to **Still Evaluating** and click it to use the application with the free Evaluation license.  
    ![REAPER license button](/assets/img/REAPER_license.png)
 
 3. In **Options** tab>**Preferences** access **REAPER Preferences**>**Device** and specify audio device settings:  
@@ -69,9 +69,9 @@ In Cabbage plugin window update `VST:spectra` as the previous settings may be ir
 > - type 2 – brown noise
 
 **Noise Level** knob:  
-> Tunes the generated noise level in response to the vacuum cleaner output.
+> tunes the generated noise level in response to the vacuum cleaner output.
 
 **MIX** knob:  
-> Controls the level of effect.
+> controls the level of effect.
 
 <mark>Sorry, I need to stop here due to NDA restrictions</mark>

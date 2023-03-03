@@ -35,7 +35,7 @@ For **SPAN VST** install only the selected components as shown below:
 
 ## Plugin Integration into REAPER
 
-1. Open _REAPER_ on your desktop.
+1. Launch _REAPER_ on your desktop.
 2. To use the application with the free Evaluation license, do the following in **About REAPER** window:
    - Notice that the **Buy Me** button displays countdown. 
    - Wait for the button text to change to **Still Evaluating**.
@@ -50,7 +50,7 @@ For **SPAN VST** install only the selected components as shown below:
    3. In **VST plug-ins settings** section:
       1. Click **Edit path list** button > **Add path** > navigate to add `Cabbage\VST directory`.
       2. Click **Edit path list button** > **Add path** > navigate to add path to SPAN   
-          - by default it is installed to `C:\Program Files\Common Files\VST2\Voxengo`.
+          - default installation directory is `C:\Program Files\Common Files\VST2\Voxengo`.
       4. Click **Re-scan** button > select **Re-scan VST paths for new/modified plug-ins**.
       5. After scanning click **OK** to close the **REAPER Preferences** dialog.
 4. Click **File** > **Open project** > `spectra` (REAPER project file).
@@ -61,7 +61,7 @@ For **SPAN VST** install only the selected components as shown below:
 
 ### Cabbage Plugin Window
 
-In Cabbage plugin window update `VST:spectra` as the previous settings may be irrelevant/outdated:
+In Cabbage plugin window, update `VST:spectra` as the previous settings may be irrelevant/outdated:
 1. Select`VST:spectra …` item.
 2. Click **Remove** button.
 3. Click **Add** button.

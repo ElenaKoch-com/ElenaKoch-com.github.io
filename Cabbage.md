@@ -16,9 +16,9 @@ Download the following software from the official websites to your default direc
    > A digital audio production application.
 - **SPAN VST** [https://www.voxengo.com/product/span/](https://www.voxengo.com/product/span/)  
    > A free real-time FFT audio spectrum analyzer.
-   >
-   For **SPAN VST** install only the selected components as shown below:
-   ![SPAN setup](/assets/img/SPAN_setup.png)
+
+For **SPAN VST** install only the selected components as shown below:
+![SPAN setup](/assets/img/SPAN_setup.png)
 
 ## Plugin Compilation in Cabbage
 
@@ -78,7 +78,7 @@ In Cabbage plugin window update `VST:spectra` as the previous settings may be ir
 > - type 2 – brown noise
 
 **Noise Level** knob   
-> tunes the generated noise level in response to the vacuum cleaner output.
+> tunes the generated noise level in response to the device's output.
 
 **MIX** knob   
 > controls the level of effect.

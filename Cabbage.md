@@ -52,7 +52,7 @@ For **SPAN VST** install only the selected components as shown below:
       2. Click **Edit path list button** > **Add path** > navigate to add path to SPAN   
           - default installation directory is `C:\Program Files\Common Files\VST2\Voxengo`.
       4. Click **Re-scan** button > select **Re-scan VST paths for new/modified plug-ins**.
-      5. After scanning click **OK** to close the **REAPER Preferences** dialog.
+      5. After scanning, click **OK** to close the **REAPER Preferences** dialog.
 4. Click **File** > **Open project** > `spectra` (REAPER project file).
 5. The program displays three windows:  
     - REAPER project
@@ -66,7 +66,7 @@ In Cabbage plugin window, update `VST:spectra` as the previous settings may be i
 2. Click **Remove** button.
 3. Click **Add** button.
    - in **Add** dialog select **New** > `VST:spectra (Cabbage Audio)`, and click **Add**.  
-4. Back in the Cabbage plugin window, drag `VST:spectra` up to make it the first item in the list.
+4. Back in the Cabbage plugin window, drag `VST:spectra` up to make it the first item in the list:
 
    ![drag item up](/assets/img/Cabbage_drag.png)
 

@@ -61,7 +61,7 @@ For **SPAN VST**, install only the selected components as shown below:
 
 ### Cabbage Plugin Window
 
-In the Cabbage plugin window, update `VST:spectra`:
+To update `VST:spectra` in the Cabbage plugin window:
 1. Select the `VST:spectra …` item.
 2. Click the **Remove** button to delete the previous settings that may be irrelevant/outdated.
 3. Click the **Add** button.
